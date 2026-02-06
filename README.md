@@ -1,5 +1,5 @@
 <h1 align="center">E ai 👋, Eu sou Anderson Alves Schinaid</h1>
-<h3 align="center">Amo animais, Técnologia, animes e Ciência. Cientista da Computação de formação, especialista em big data, me especializando em inteligência artificial e bioinformática.</h3>
+<h3 align="center">Amo animais, Técnologia, animes e Ciência. Cientista da Computação de formação, especialista em big data, inteligência artificial e bioinformática.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schinaid&label=Profile%20views&color=0e75b6&style=flat" alt="schinaid" /> </p>
 
