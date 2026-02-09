@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hack+the+Real+World!;Seguran%C3%A7a+Sem+Frescura.;Projetos+reais+para+problemas+reais.](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Arquitetura+de+sistemas;OnPremisses+ou+nuvem.;Projetos+reais+para+problemas+reais."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hack+the+Real+World!;Seguran%C3%A7a+Sem+Frescura.;Projetos+reais+para+problemas+reais."/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Para treinar o que aprendemos durante o curso, vamos criar algumas classes e fun
 🔸 [`PLN-MMIMIC3-analisando-os-dados`](https://github.com/schinaid/mimic3_mortality_project/tree/dev/mimic3_mortality)  
 Este repositório apresenta um pipeline completo de ciência de dados para análise exploratória e modelagem preditiva utilizando notas clínicas do banco de dados MIMIC-III. O foco é explorar o potencial do Processamento de Linguagem Natural (PLN) aplicado a sumários de alta hospitalar para prever mortalidade pós-alta.
 
-🔸 Inumeros outros projetos privados a maioria subindo aplicações e serviços com manifestos kubernetes, docker compose entre outros
+🔸 Inumeros outros projetos privados a maioria subindo aplicações e serviços com manifestos kubernetes, docker compose, projetos de inteligencia artificial ou bioinformática
 
 ---
 
