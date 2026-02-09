@@ -9,7 +9,7 @@
 - **Analista de sistemas Hospital Israelita Albert Einstein**
 - Especialista em **Bigdata and analytics**, **Inteligência Artificial pela Escola politécnica da USP** e **Bioinformática com enfase em variantes germinativas e somaticas no Hospital Israelita Albert Einstein**
 - Participei de treinamentos como Devops, AWS, Kubernetes e etc
-- Faço parte atualmente do projeto Proadi-sus Diana na SAPS
+- Faço parte atualmente do projeto Proadi-sus Diana na SAPS.
 - Já participei de squads como Interoperabilidade, Governança, Analytics e letramento.
 - Hoje faço parte da equipe de arquitetura de sistemas onde implanto os serviços usados pelas equipes usando kubernetes, compose e etc.
 
