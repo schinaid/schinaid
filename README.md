@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Analista+de+sistemas;Devops,+Inteligencia+Artificial,+Bioinformatica;Hospital+Israelita+Albert+Einstein"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Analista+de+sistemas;Devops,+Inteligencia+Artificial+;e+Bioinformatica;Hospital+Israelita+Albert+Einstein"/>
 </p>
 
 ---
