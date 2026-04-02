@@ -33,9 +33,6 @@ Projeto para a classificação de variantes somaticas
 🔸 [`Exercicio-de-deploy-de-aplicaca`](https://github.com/schinaid/mba-deeplearning-iad-006-2024-public)  
 Projeto para praticar o deploy de uma aplicação em flask
 
-🔸 [`Dependencia-condicional-entre-hipertensao-e-imc`](https://github.com/schinaid/monograph_on_obesity_with_pns)  
-Projeto de final de curso e publicação em revista, nesse projeto usamos os dados da Pesquisa Nacional de dados em saúde para analisar se a hipertensao e o imc são dependentes ou indepentendes 
-
 🔸 [`Pipeline-de-classificacao-de-variantes`](https://github.com/schinaid/filtro_vep_output_pipeline)  
 Este repositório contém um pipeline bioinformático modular desenvolvido para a classificação e priorização de variantes genômicas em Tiers (1, 2 e 3). O sistema é focado na identificação de Hematopoiese Clonal, integrando extração de alto desempenho via Bash e análise estatística via Python.
 
