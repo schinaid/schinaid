@@ -8,12 +8,11 @@
 
 - **Analista de sistemas Hospital Israelita Albert Einstein**
 - Especialista em **Bigdata and analytics**, **Inteligência Artificial pela Escola politécnica da USP** e **Bioinformática com enfase em variantes germinativas e somaticas no Hospital Israelita Albert Einstein**
-- Participei de treinamentos como Devops, AWS, Kubernetes e etc
+- Participei de treinamentos de Devops, Docker, AWS, GCP, Azure, Kubernetes, CI/CD, IAOPS, Observabilidade de dados e saúde de aplicações, coleta e monitoramento (metricas, trace, logs), provisionamento de configuração e infraestrutura como código (ansible, terraform), gitops com argocd e serviceMesh.
+- Participo ativamente de treinamento de segurança com foco em penetração de sistemas. estou atrás das certificações (Solyd Certified Pentester SYCP, Solyd Android Pentester SYAP e Solyd Evasion Specialist SYES)
 - Faço parte atualmente do projeto Proadi-sus Diana na SAPS.
 - Já participei de squads como Interoperabilidade, Governança, Analytics e letramento.
 - Hoje faço parte da equipe de arquitetura de sistemas onde implanto os serviços usados pelas equipes usando kubernetes, compose e etc.
-
-📫 **Contato direto:** andersonschinaid@hotmail.com
 
 ---
 
