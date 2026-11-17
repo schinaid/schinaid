@@ -12,7 +12,7 @@
 - Participo ativamente de treinamento de segurança com foco em penetração de sistemas. estou atrás das certificações (Solyd Certified Pentester SYCP, Solyd Android Pentester SYAP e Solyd Evasion Specialist SYES)
 - Faço parte atualmente do projeto Proadi-sus Diana na SAPS.
 - Já participei de squads como Interoperabilidade, Governança, Analytics e letramento.
-- Hoje faço parte da equipe de arquitetura de sistemas onde implanto os serviços usados pelas squads do projeto Diana 2 usando kubernetes, docker compose e etc.
+- Hoje faço parte da equipe de arquitetura de sistemas onde implanto os serviços usados pelas squads do projeto Diana 2 usando kubernetes, docker compose, Ansible e etc.
 
 ---
 
